@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bernardo Alencar
 
-<!--
-**Bernalencouto/Bernalencouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+- Estudante de Ciência da Computação na CESAR School  
+- Aprendendo a desenvolver em Python, JavaScript, HTML/CSS e Arduíno  
+- Interessado em back-end e front-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Ferramentas que utilizo
+
+- VS Code  
+- Git  
+- GitHub  
+- Arduino
+
+---
+
+### Contato
+
+- [LinkedIn](https://www.linkedin.com/in/bernardo-alencar-coutinho)  
+- Email: coutinhoabernardo@gmail.com
+
