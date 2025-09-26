@@ -1,7 +1,7 @@
 # Bernardo Alencar
 
 - 🎓 Estudante de Ciência da Computação na **CESAR School**  
-- 🧠 Aprendendo a desenvolver em **Python**, **JavaScript**, **HTML/CSS**, **Arduíno** e **C** 
+- 🧠 Aprendendo a desenvolver em **Python**, **JavaScript**, **HTML/CSS** e **C** 
 - 🌐 Interessado em **back-end** e **front-end**
 
 ---
