@@ -1,7 +1,5 @@
 # Bernardo Alencar
 
-- 🎓 Estudante de Ciência da Computação na **CESAR School**  
-
 ---
 
 ## 📬 Contato
